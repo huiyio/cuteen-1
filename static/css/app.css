@@ -613,7 +613,7 @@ a {
 }
 .article.have-img .article-title {
     font-size: 1.5rem;
-    font-weight: bold;
+    /*font-weight: bold;*/
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-box-orient: vertical;
