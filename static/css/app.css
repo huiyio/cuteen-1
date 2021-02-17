@@ -609,7 +609,7 @@ a {
 }
 .article.have-img .article-info, .article.have-img .article-description, .article.have-img .article-title {
     letter-spacing: 0.06rem;
-    text-shadow: 0 0.1875rem 0.3125rem rgba(0, 0, 0, 0.3);
+    /*text-shadow: 0 0.1875rem 0.3125rem rgba(0, 0, 0, 0.3);*/
 }
 .article.have-img .article-title {
     font-size: 1.5rem;
